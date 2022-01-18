@@ -24,3 +24,7 @@
  - Vision Recognition by Computer : OpenCV
  - Tools : Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
  - Others : Technical Writing, UI/UX Designing, Team Leadership
+
+
+
+<a href="https://samwelnyandoro1.netlify.app/">Portfolio Website</a>
