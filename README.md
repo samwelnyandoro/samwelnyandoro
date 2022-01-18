@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi there! <span class="wave">👋</span>  I'm Samwel 🙋‍♂️</h1>
 
-<!--
-**samwelnyandoro/samwelnyandoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎍 Welcome to my hub 👨‍💻
 
-Here are some ideas to get you started:
+ - 👨‍🎓 24 year old Business Information Technology Graduate.
+- 👨‍💻 #SelfTaught Developer.
+- 📱 Developer of mobile applications.
+- 👨‍💻 Mostly working on 📱Android 🔥Firebase!
+- 🌐 I'm also looking at web development.
+- 👁️ Fallen in LOVE with ❤️Digital Image Processing and Computer Vision
+- 🤔 Enthusiast for machine learning and artificial intelligence
+- ✍️ Create content for Medium.
+- 🦉 owl in the night
+- Adores 🎵
+- I'm ecstatic.
+ 
+ 
+ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Languages : Java, Kotlin, Dart, HTML, CSS, JavaScript
+ - Databases : MySQL, MongoDB, Firebase
+ - Frameworks : Android, Flutter, Bootstrap
+ - MERN Stack : MongoDB, ExpressJS, ReactJS, NodeJS
+ - Vision Recognition by Computer : OpenCV
+ - Tools : Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
+ - Others : Technical Writing, UI/UX Designing, Team Leadership
