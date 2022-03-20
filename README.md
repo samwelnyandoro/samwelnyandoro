@@ -19,7 +19,7 @@
  Skills
 
  - Languages : Java, Kotlin, Dart, HTML, CSS, JavaScript
- - Databases : MySQL, MongoDB, Firebase
+ - Databases : MySQL,Firebase
  - Frameworks : Android, Flutter, Bootstrap
  - MERN Stack : MongoDB, ExpressJS, ReactJS, NodeJS
  - Vision Recognition by Computer : OpenCV
