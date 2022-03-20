@@ -10,6 +10,7 @@
 - 👁️ Fallen in LOVE with ❤️Digital Image Processing and Computer Vision
 - 🤔 Enthusiast for machine learning and artificial intelligence
 - ✍️ Create content for Medium.
+- 🔥  Firebase ML Vision
 - 🦉 owl in the night
 - Adores 🎵
 - I'm ecstatic.
