@@ -13,12 +13,14 @@
   </a>
 </div>
 <div id="profile" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=samwelnyandoro&style=flat-square&color=blue" alt=""/>
  </div>
+ <div align="center">
  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -26,9 +28,15 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :Mostly: working on 📱Android 🔥Firebase!.
+
+- :AI: 👁️ Fallen in LOVE with ❤️Digital Image Processing and Computer Vision.
+
+- :FIREBASE:🔥 Firebase ML Vision
+
+- :medium: ✍️ Create content for Medium.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -62,36 +70,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/samwelnyandoro/github-readme-stats)
 
+---
 
-
-<h1>Hi there! <span class="wave">👋</span>  I'm Samwel 🙋‍♂️</h1>
-
-🎍 Welcome to my hub 👨‍💻
-
- - 👨‍🎓 24 year old Business Information Technology Graduate.
-- 👨‍💻 #SelfTaught Developer.
-- 📱 Developer of mobile applications.
-- 👨‍💻 Mostly working on 📱Android 🔥Firebase!
-- 🌐 I'm also looking at web development.
-- 👁️ Fallen in LOVE with ❤️Digital Image Processing and Computer Vision
-- 🤔 Enthusiast for machine learning and artificial intelligence
-- ✍️ Create content for Medium.
-- 🔥  Firebase ML Vision
-- 🦉 owl in the night
-- Adores 🎵
-- I'm ecstatic.
- 
- 
- Skills
-
- - Languages : Java, Kotlin, Dart, HTML, CSS, JavaScript
- - Databases : MySQL,Firebase
- - Frameworks : Android, Flutter, Bootstrap
- - MERN Stack : MongoDB, ExpressJS, ReactJS, NodeJS
- - Vision Recognition by Computer : OpenCV
- - Tools : Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
- - Others : Technical Writing, UI/UX Designing, Team Leadership
+### :writing_hand: Blog Posts :
 
 
 
-<a href="https://samwelnyandoro1.netlify.app/">Portfolio Website</a>
+<a href="https://app.netlify.com/start/deploy?repository=https:samwelnyandoro1.netlify.app"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
