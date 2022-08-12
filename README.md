@@ -40,7 +40,18 @@ I love the entire process of developing creative android applications. I love th
 - 📱 Flutter
 - Firebase
 - React Context API
-- Styled Components  
+- Styled Components
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
 
 ## 💼 Technical Skills, Language and Tools
 
