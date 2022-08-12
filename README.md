@@ -1,52 +1,48 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/samwel-nyandoro-4aba9b190">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/channel/UC_iKVufYo_lDKxEso3tjHqQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/samwelnyandoro1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div id="profile" align="center">
-<img src="https://komarev.com/ghpvc/?username=samwelnyandoro&style=flat-square&color=blue" alt=""/>
- </div>
- <div align="center">
- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915374/184318716-5d1801e4-2407-4ba5-8a7a-dff5cf492a4e.png" alt="my banner"></a>
+</p>
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
+<h3 align="center">
+Hi there, I'm <a href="https://samwelnyandoro1.netlify.app/" target="_blank" rel="noreferrer">Samwel Nyandoro</a> 👋
+</h3>
 
-- :Mostly: working on 📱Android 🔥Firebase!.
+<h2 align="center">
+I'm a Full-Stack Android Developer 📱, Photographer 📸, and Designer 🎨!
+</h2> 
 
-- :AI: 👁️ Fallen in LOVE with ❤️Digital Image Processing and Computer Vision.
+I love the entire process of developing creative android applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- :FIREBASE:🔥 Firebase ML Vision
+### 🤝 Connect with me:
 
-- :medium: ✍️ Create content for Medium.
+<a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel Nyandoro | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/samwelnyandoro1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Samwel Nyandoro | Instagram" width="21px"/></a>
+<a href="https://medium.com/@samwelnyandoro1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Samwel Nyandoro | Medium" width="21px"/></a>
+<a href="https://twitter.com/samwelnyandoro1"><img align="left" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+## 🔭 I'm currently working on
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-samwel-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/samwel-nyandoro-4aba9b190)
+- My old projects
+- Multi Vendor Recommendation App (Java, Kotlin)
+- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My next blog
+- My Android/IOS skill
+- Mostly: working on 📱Android 🔥Firebase!
+- AI: 👁️ Fallen in LOVE with ❤️Digital Image Processing and Computer Vision
+- medium: ✍️ Create content for Medium.
 
----
+## 🌱 I'm currently learning
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+- 📱 Flutter
+- Firebase
+- React Context API
+- Styled Components  
+
+## 💼 Technical Skills, Language and Tools
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
@@ -57,19 +53,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
----
+</br>
 
-### :fire: My Stats :
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## 📝 Latest Blog Posts
+
+- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
+- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
+- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
+- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+
+## 📈 GitHub Stats 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=samwelnyandoro&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&layout=compact&theme=vision-friendly-dark)](https://github.com/samwelnyandoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&layout=compact)](https://github.com/samwelnyandoro)
 
----
-
-### :writing_hand: Blog Posts :
-
-<a href="https://www.buymeacoffee.com/samwelnyandoro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
+<img src="https://komarev.com/ghpvc/?username=samwelnyandoro&style=flat-square&color=blue" alt=""/>
