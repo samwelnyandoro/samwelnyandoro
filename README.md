@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://samwelnyandoro1.netlify.app/" target="_blank" rel
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Android Developer 📱, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Android Developer 📱 and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative android applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -17,8 +17,11 @@ I love the entire process of developing creative android applications. I love th
 <a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel Nyandoro | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/samwelnyandoro1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Samwel Nyandoro | Instagram" width="21px"/></a>
 <a href="https://medium.com/@samwelnyandoro1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Samwel Nyandoro | Medium" width="21px"/></a>
-<a href="https://twitter.com/samwelnyandoro1"><img align="left" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://twitter.com/samwelnyandoro1"><img align="left" src="https://user-images.githubusercontent.com/36915374/184327067-63e7328d-190c-4657-9ff6-24b1c1768615.png" alt="Twitter Badge | Twitter" width="21px"/></a>
+
+
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
