@@ -77,6 +77,6 @@ I love the entire process of developing creative android applications. I love th
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=samwelnyandoro&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&layout=compact)](https://github.com/samwelnyandoro)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&langs_count=5&theme=tokyonight)]()
 
 <img src="https://komarev.com/ghpvc/?username=samwelnyandoro&style=flat-square&color=blue" alt=""/>
