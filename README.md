@@ -14,13 +14,13 @@ I love the entire process of developing creative android applications. I love th
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel Nyandoro | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/samwelnyandoro1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Samwel Nyandoro | Instagram" width="21px"/></a>
 <a href="https://medium.com/@samwelnyandoro1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Samwel Nyandoro | Medium" width="21px"/></a>
-<a href="https://twitter.com/samwelnyandoro1"><img align="left" src="https://user-images.githubusercontent.com/36915374/184327067-63e7328d-190c-4657-9ff6-24b1c1768615.png" alt="Twitter Badge | Twitter" width="21px"/></a>
-
-
+<a href="https://twitter.com/samwelnyandoro1"><img align="left" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge | Twitter" width="81px"/></a>
+<a href="https://youtube.com/channel/UC_iKVufYo_lDKxEso3tjHqQ"><img align="left" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge | Youtube" width="81px"/></a>
 </br>
+
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -79,8 +79,8 @@ No activity tracked
 
 ## 📝 Latest Blog Posts
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
+- [Deploy PHP API Backend to Heroku and Flutter Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
+- [Animation Login Popup Form by Using Jetpack compose(Kotlin)](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
 - [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
