@@ -79,9 +79,9 @@ No activity tracked
 
 ## 📝 Latest Blog Posts
 
-- [Deploy PHP API Backend to Heroku and Flutter Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
+- [Deploy PHP API Backend to Heroku and Flutter Frontend to Netlify](https://samwelnyandoro.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
 - [Animation Login Popup Form by Using Jetpack compose(Kotlin)](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
+- [Checklist ✅ for Rails Application](https://samwelnyandoro.medium.com/checklist-for-rails-application-30868cb4f48b)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
 ## 📈 GitHub Stats 
