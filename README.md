@@ -82,8 +82,17 @@ No activity tracked
 
 ## 📈 GitHub Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=samwelnyandoro&theme=highcontrast&show_icons=true&count_private=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=samwelnyandoro&show_icons=true&theme=highcontrast&locale=en" alt="samwelnyandoro" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwelnyandoro&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samwelnyandoro" /></td>
+  </tr>
+</table>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&langs_count=5&theme=tokyonight)]()
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+  </div>
+
 
 <img src="https://komarev.com/ghpvc/?username=samwelnyandoro&style=flat-square&color=blue" alt=""/>
