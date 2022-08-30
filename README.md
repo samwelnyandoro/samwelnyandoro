@@ -12,6 +12,21 @@ I'm a Full-Stack Android Developer 📱 and Designer 🎨!
 
 I love the entire process of developing creative android applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/samwelnyandoro/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/samwelnyandoro/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/samwelnyandoro/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/samwelnyandoro/github-profile-trophy"/> 
+  </a>
+</p>
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel | LinkedIn" width="21px"/></a>
