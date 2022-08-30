@@ -42,6 +42,8 @@ I love the entire process of developing creative android applications. I love th
 - React Context API
 - Styled Components
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=samwelnyandoro&theme=onedark)](https://github.com/samwelnyandoro/github-profile-trophy)
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
