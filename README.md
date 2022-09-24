@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915374/184318716-5d1801e4-2407-4ba5-8a7a-dff5cf492a4e.png" alt="my banner"></a>
+  <a href="https:/samwelnyandoro1.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915374/184318716-5d1801e4-2407-4ba5-8a7a-dff5cf492a4e.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
