@@ -29,6 +29,10 @@ I love the entire process of developing creative android applications. I love th
 
 ### 🤝 Connect with me:
 
+<!-- ## Fast dash-dash line animation -->
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/samwelnyandoro1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Samwel Nyandoro | Instagram" width="21px"/></a>
 <a href="https://medium.com/@samwelnyandoro1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Samwel Nyandoro | Medium" width="21px"/></a>
