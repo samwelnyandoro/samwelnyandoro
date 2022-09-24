@@ -82,17 +82,17 @@ GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░�
 ## 💼 Technical Skills, Language and Tools
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="43" height="43"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="50" height="50"/>&nbsp;
 
 </br>
 
@@ -108,17 +108,29 @@ GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░�
 
 ## 📈 GitHub Stats 
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=samwelnyandoro&show_icons=true&theme=highcontrast&locale=en" alt="samwelnyandoro" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samwelnyandoro&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samwelnyandoro" /></td>
-  </tr>
-</table>
+<h2 align="left"> 📊  My GitHub Stats So Far 👷</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=samwelnyandoro&show_icons=true&theme=chartreuse-dark" align="right"/>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&theme=chartreuse-dark)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samwelnyandoro&" alt="samwelnyandoro" align="center" width="1000"/>
 
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
-  </div>
+## ❤ Views and Followers
 
+<a href="https://komarev.com/ghpvc/?username=samwelnyandoro">
+    <img src="https://komarev.com/ghpvc/?username=samwelnyandoro">
+</a>
+<a href="https://img.shields.io/github/followers/samwelnyandoro"><img src="https://img.shields.io/github/followers/samwelnyandoro?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<img src="https://komarev.com/ghpvc/?username=samwelnyandoro&style=flat-square&color=blue" alt=""/>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a>
+<br>
+
+![Samwel's github activity graph](https://activity-graph.herokuapp.com/graph?username=samwelnyandoro&theme=#bababa)
+
+<!-- ## waves animation -->
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="1000"  height="70" />
+  </p>
