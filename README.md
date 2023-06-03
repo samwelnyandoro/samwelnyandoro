@@ -66,7 +66,7 @@ I love the entire process of developing creative android applications. I love th
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java             25 mins         ████████▒░░░░░░░░░░░░░░░░   33.96 %
 Groovy           23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
 XML              23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.18 %
