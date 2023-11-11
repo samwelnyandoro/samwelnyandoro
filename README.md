@@ -67,11 +67,11 @@ I love the entire process of developing creative android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-XML          41 mins         ████████████▓░░░░░░░░░░░░   50.43 %
-Dart         27 mins         ████████▒░░░░░░░░░░░░░░░░   33.93 %
-Java         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Gradle       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+XML          53 mins         ███████████▒░░░░░░░░░░░░░   45.91 %
+Dart         31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Java         25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Gradle       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
