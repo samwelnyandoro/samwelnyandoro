@@ -67,8 +67,8 @@ I love the entire process of developing creative android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-Java   2 mins          █████████████████████████   99.61 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java   6 mins          ███████████████████████▓░   95.08 %
+XML    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
