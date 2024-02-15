@@ -67,10 +67,11 @@ I love the entire process of developing creative android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-Java     6 hrs 14 mins   ████████████████████████▒   97.02 %
-XML      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Gradle   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Java              7 hrs 44 mins   ███████████████████░░░░░░   76.18 %
+XML               1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Groovy            44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Gradle            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Kotlin            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
