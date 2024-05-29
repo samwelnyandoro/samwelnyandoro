@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <a href="https:/samwelnyandoro/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915374/184318716-5d1801e4-2407-4ba5-8a7a-dff5cf492a4e.png" alt="my banner"></a>
-</p>
+</p>-->
 
 <h3 align="center">
 Hi there, I'm <a href="https://samwelnyandoro1.netlify.app/" target="_blank" rel="noreferrer">Samwel Nyandoro</a> 👋
