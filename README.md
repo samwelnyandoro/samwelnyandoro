@@ -36,7 +36,7 @@ I love the entire process of developing creative android applications. I love th
 <a href="https://www.linkedin.com/in/samwel-nyandoro-4aba9b190/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samwel | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/samwelnyandoro1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Samwel Nyandoro | Instagram" width="21px"/></a>
 <a href="https://medium.com/@samwelnyandoro1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Samwel Nyandoro | Medium" width="21px"/></a>
-<a href="https://twitter.com/samwelnyandoro1"><img align="left" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge | Twitter" width="81px"/></a>
+<a href="https://x.com/samwelnyandoro1"><img align="left" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge | Twitter" width="81px"/></a>
 <a href="https://youtube.com/channel/UC_iKVufYo_lDKxEso3tjHqQ"><img align="left" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge | Youtube" width="81px"/></a>
 </br>
 
