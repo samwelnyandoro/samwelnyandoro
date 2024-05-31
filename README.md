@@ -113,7 +113,7 @@ TOML              2 hrs 3 mins    ██░░░░░░░░░░░░░�
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&theme=chartreuse-dark)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samwelnyandoro&" alt="samwelnyandoro" align="center" width="1000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samwelnyandoro&theme=cobalt&date&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="samwelnyandoro" align="center" width="1000"/>
 
 
 ## ❤ Views and Followers
