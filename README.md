@@ -67,11 +67,11 @@ I love the entire process of developing creative android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              6 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.15 %
-Java              2 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-PHP               1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Kotlin            59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-XML               59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Dart              5 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.55 %
+Java              2 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+XML               1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+PHP               1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Kotlin            59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
 ```
 
 <!--END_SECTION:waka-->
