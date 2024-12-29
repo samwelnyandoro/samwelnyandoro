@@ -63,11 +63,11 @@ I love the entire process of developing creative android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   11 hrs 44 mins  ███████████████████▒░░░░░   77.86 %
-XML      1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-PHP      59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Java     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Other    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Kotlin           10 hrs 46 mins  █████████████████▒░░░░░░░   69.72 %
+PHP              2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+XML              1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Java             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
