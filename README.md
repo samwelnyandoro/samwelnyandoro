@@ -10,22 +10,7 @@ Hi there, I'm <a href="https://samwelnyandoro1.netlify.app/" target="_blank" rel
 I'm a Full-Stack Android Developer 📱!
 </h2> 
 
-I love the entire process of developing creative android applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/samwelnyandoro/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/samwelnyandoro/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/samwelnyandoro/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/samwelnyandoro/github-profile-trophy"/> 
-  </a>
-</p>
+I love the entire process of developing creative Android applications. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
@@ -37,9 +22,9 @@ I love the entire process of developing creative android applications. I love th
 </br>
 
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## I'm currently working on
 
 - My old projects
 - Single Vendor Ecommerce App (Java, Kotlin)
@@ -52,12 +37,10 @@ I love the entire process of developing creative android applications. I love th
 
 ## 🌱 I'm currently learning
 
-- 📱Flutter
+- Flutter
 - Firebase
 - Kotlin
 - Java
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samwelnyandoro&theme=onedark)](https://github.com/samwelnyandoro/github-profile-trophy)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -104,10 +87,6 @@ Dart              51 mins         ▓░░░░░░░░░░░░░░�
 ## 📈 GitHub Stats 
 
 <h2 align="left"> 📊  My GitHub Stats So Far 👷</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=samwelnyandoro&show_icons=true&theme=chartreuse-dark" align="right"/>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelnyandoro&theme=chartreuse-dark)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwelnyandoro&theme=cobalt&date&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="samwelnyandoro" align="center" width="1000"/>
 
