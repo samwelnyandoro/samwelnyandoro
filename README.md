@@ -46,11 +46,11 @@ I love the entire process of developing creative Android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              18 hrs 44 mins        ███████████████████████░░   91.77 %
-Markdown         32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Blade Template   32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON             13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Kotlin           10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+PHP              22 hrs 43 mins        ███████████████████████▒░   93.80 %
+Blade Template   40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Kotlin           16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Markdown         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Bash             8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
