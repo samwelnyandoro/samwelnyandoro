@@ -46,8 +46,8 @@ I love the entire process of developing creative Android applications. I love th
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     31 hrs 27 mins        ███████████████████████░░   92.23 %
-JSON    2 hrs 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+PHP     30 hrs 36 mins        ███████████████████████▓░   94.32 %
+JSON    1 hr 50 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
